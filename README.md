@@ -1,6 +1,6 @@
 # Food Restaurant Landing Page
 
->Live Link : [Food Restaurant](https://google.com)
+>Live Link : [Food Restaurant](https://foodhome-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/food-restaurant-landing-page/master/Food%20Restaurant%20Home%20Page.png)
